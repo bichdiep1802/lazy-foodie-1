@@ -1,0 +1,15 @@
+{
+  "name": "lazyfoody",
+  "version": "0.0.0",
+  "description": "lazyfoody",
+  "main": "app.js",
+  "author": {
+    "name": "liy",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
